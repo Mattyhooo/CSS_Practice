@@ -18,7 +18,7 @@ button{
     border-style: none;
 } */
 
-.odd_number{
+/* .odd_number{
     background-color: pink;
     font-family: verdana, "dejavu Sans", sans-serif;
 }
@@ -37,4 +37,18 @@ button{
     font-weight: bold;
     background-color: lightgreen;
     font-size: 24px;
+} */
+
+.b1{
+    background-color: black;
+    color: white;
+}
+
+.b2{
+    background-color: yellow;
+}
+
+button{
+font-size: 28px;
+font-family: Helvetica, 'Times New Roman', sans-serif;
 }
